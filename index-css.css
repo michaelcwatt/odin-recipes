@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(68, 89, 245);
+}
+
+#header{
+    color: gold;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 1px;
+    font-size: 60px;
+}
+
+#links{
+    align-items: center;
+    padding-top: 50px;
+}
+
+.link{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link:hover{
+    color: black;
+}
+
