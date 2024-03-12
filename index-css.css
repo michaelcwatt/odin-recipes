@@ -2,6 +2,12 @@
     background-color: rgb(68, 89, 245);
 }
 
+.pages{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
 #header{
     color: gold;
     font-weight: 800;
@@ -9,11 +15,9 @@
     text-align: center;
     text-shadow: 1px;
     font-size: 60px;
-}
-
-#links{
-    align-items: center;
-    padding-top: 50px;
+    border-bottom: 1px black solid;
+    padding-bottom: 20px;
+    display: block;
 }
 
 .link{
@@ -21,6 +25,8 @@
     font-weight: 400;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: 5px;
 }
 
 .link:hover{
